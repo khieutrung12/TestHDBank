@@ -4,7 +4,7 @@
   {
       var transactionRequest = new
       {
-          merchantId = "1001074687",
+          merchantId = "3331074687",
           invoiceId = "BN-0011",
           type = "vietqr",
           transactionAmount = 10000,
